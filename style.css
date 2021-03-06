@@ -1,0 +1,13 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(https://www.w3schools.com/css/border.png) 30 repeat;
+}
+body{
+    background-color: darkviolet;
+}
